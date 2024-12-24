@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a755a4c-0b8b-47a1-9260-f554be0def57" name="Changes" comment="Dec 20th 2024">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeDrvierExample_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeWVOProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeWindowResizeTest_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/EdgeWindowResizetest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ProjectCuraMakeAppointmentTest.java" afterDir="false" />
+    <list default="true" id="6a755a4c-0b8b-47a1-9260-f554be0def57" name="Changes" comment="Dec 24th 2024 commiting task for cura">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/Awesomeqa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1734717799037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dec 24th 2024 commiting task for cura">
+      <option name="closed" value="true" />
+      <created>1735064237342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735064237342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dec 20th 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dec 20th 2024" />
+    <MESSAGE value="Dec 24th 2024 commiting task for cura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dec 24th 2024 commiting task for cura" />
   </component>
 </project>
