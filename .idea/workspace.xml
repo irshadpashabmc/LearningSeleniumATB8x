@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a755a4c-0b8b-47a1-9260-f554be0def57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/Selenium_001.java" afterDir="false" />
+    <list default="true" id="6a755a4c-0b8b-47a1-9260-f554be0def57" name="Changes" comment="Dec 20th 2024">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeDrvierExample_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeWVOProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ChromeWindowResizeTest_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/EdgeWindowResizetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/irshadpashabmc/SeleniumDriverExample/ProjectCuraMakeAppointmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;irshadpashabmc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/irshadpashabmc/LearningSeleniumATB8x.git&quot;,
+    &quot;accountId&quot;: &quot;c96b256b-38bc-4d2c-ba2e-2f7963ab355a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -40,6 +52,11 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ChromeDrvierExample_001.executor": "Run",
+    "TestNG.ChromeWVOProgram.executor": "Run",
+    "TestNG.ChromeWindowResizeTest_002.executor": "Run",
+    "TestNG.EdgeWindowResizetest.executor": "Run",
+    "TestNG.ProjectCuraMakeAppointmentTest.executor": "Run",
     "TestNG.Selenium_001.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -54,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1734609359206</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dec 20th 2024">
+      <option name="closed" value="true" />
+      <created>1734717799037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734717799037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dec 20th 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dec 20th 2024" />
   </component>
 </project>
